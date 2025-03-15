@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I am Ran Maoxin, a student in Hanjiang Normal University. 
+I want to study in Github and try to make some contributions to the community, I like coding.
+
 <!--
 **rmxfor/rmxfor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
